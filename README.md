@@ -1,58 +1,43 @@
-Olá! Sou o André Pedreschi.
-##
+# 👋 Olá, eu sou o André Pedreschi
 
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou Desenvolvedor Front-end com experiência sólida em projetos de médio e grande porte, atuando com Angular (v13~v19), React, Vue.js (v3), TypeScript e Sass. Tenho forte autonomia na resolução de problemas complexos e foco em entregar soluções escaláveis, performáticas e alinhadas com as necessidades do negócio.
 
- <div>
-  <a href="https://www.linkedin.com/in/andr%C3%A9-pedreschi-7a69b98b/">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=AndrePedreschi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-     <!--
-  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrePedreschi&layout=compact&langs_count=7&theme=dark"/>
-     -->
-</div>
+Atualmente atuo também como **Líder Técnico**, apoiando decisões arquiteturais, promovendo boas práticas de desenvolvimento e contribuindo ativamente para o crescimento técnico da equipe. Dou suporte a desenvolvedores juniores por meio de mentorias, revisões de código e incentivo à troca de conhecimento.
 
+---
 
- <!--
- 
-<div style="display: inline_block"><br>
-  <img align="center" alt="AndrePedreschi-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg">
-  <img align="center" alt="AndrePedreschi-Ts" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="AndrePedreschi-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="AndrePedreschi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="AndrePedreschi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" width="150" height="150" alt="yoda" src="https://i.imgur.com/KVgvOqf.gif">  
-</div>
- -->
-  
-  ##
- 
-  <!--
-<div> 
-  
-  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  
-  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  
- 	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  
-  <a href="https://discord.gg/9VSSYjSu" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  
-  <a href = "mailto:a.pedreschi32@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
-  <a href="https://www.linkedin.com/in/andr%C3%A9-pedreschi-7a69b98b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+## 🚀 Tecnologias e Ferramentas
 
-  
-  ![Snake animation](https://github.com/AndrePedreschi/AndrePedreschi/blob/output/github-contribution-grid-snake.svg)
-  -->
-</div>
+- **Linguagens:** JavaScript, TypeScript, HTML5, CSS3
+- **Frameworks:** Angular, React, Vue.js, SPFx
+- **Bibliotecas:** Zustand, Zod, React Hook Form, Styled Components, Axios, Angular Material UI, ChartJS, 
+- **Testes:** Jest, Karma, Jasmine
+- **Back-end:** Node.js, Express
+- **Banco de Dados:** MySQL, MondoDB
+- **Design e UI:** Figma
+- **Ferramentas:** Git, GitHub, Jira, Azure
+- **Boas práticas:** Clean Code, SOLID, Metodologias Ágeis (Scrum, Kanban)
 
+---
+
+## 📌 Projetos em Destaque
+
+### 🛠 [SPA-SPFX](https://github.com/AndrePedreschi/SPA-SPFX)
+Aplicação desenvolvida com React e SharePoint Framework (SPFx), focada na modernização do modelo de desenvolvimento clássico do SharePoint, que será descontinuado pela Microsoft. Atuei como referência técnica, orientando a equipe na adoção da nova stack e promovendo boas práticas de desenvolvimento.
+
+### 📚 [CTD](https://github.com/AndrePedreschi/CTD)
+Repositório de estudos e projetos desenvolvidos durante o curso Certified Tech Developer. Inclui aplicações full-stack com foco em usabilidade, estruturação de código e integração entre front e back-end (React.js e Java).
+
+### 🏝 [MochilaViajante](https://github.com/AndrePedreschi/MochilaViajante)
+Projeto colaborativo que visa facilitar o acesso e a comunicação entre clientes e a indústria hoteleira nas praias brasileiras. Responsável pela construção do front-end com React.js, layout responsivo e integração com backend para reservas e consultas.
+
+---
+
+## 📫 Onde me encontrar
+
+- [LinkedIn](https://www.linkedin.com/in/andrepedreschi/)
+- 📧 a.pedreschi32@gmail.com
+
+---
+
+⭐ Obrigado por visitar meu perfil!
