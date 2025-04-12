@@ -28,8 +28,8 @@ Aplicação desenvolvida com React e SharePoint Framework (SPFx), focada na mode
 ### 📚 [CTD](https://github.com/AndrePedreschi/CTD)
 Repositório de estudos e projetos desenvolvidos durante o curso Certified Tech Developer. Inclui aplicações full-stack com foco em usabilidade, estruturação de código e integração entre front e back-end (React.js e Java).
 
-### 🏝 [MochilaViajante](https://github.com/AndrePedreschi/MochilaViajante)
-Projeto colaborativo que visa facilitar o acesso e a comunicação entre clientes e a indústria hoteleira nas praias brasileiras. Responsável pela construção do front-end com React.js, layout responsivo e integração com backend para reservas e consultas.
+### 🧠 [TaskMaster](https://github.com/AndrePedreschi/TaskMaster)
+Aplicação web desenvolvida com Angular 17 para gerenciamento de projetos e tarefas. Projeto utilizado para dar aulas de frontend e ajudar no desenvolvimento de novos devs.
 
 ---
 
